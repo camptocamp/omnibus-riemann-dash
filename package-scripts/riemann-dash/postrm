@@ -1,0 +1,9 @@
+#!/bin/bash
+#
+# Perform necessary riemann-dash removal steps
+# after package is uninstalled.
+#
+
+echo "riemann-dash has been uninstalled!"
+
+exit 0
